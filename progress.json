@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:22:50.496Z",
+  "generated_at": "2026-10-03T17:51:20.902Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -259,6 +259,19 @@
       "last_pushed_at": "2026-10-03T17:22:49.455Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:288": {
+      "kind": "problem",
+      "id": "288",
+      "title": "Implement Grid Search",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/288",
+      "path": "problems/0288-implement-grid-search",
+      "first_solved_at": "2026-10-03T17:51:20.071Z",
+      "last_pushed_at": "2026-10-03T17:51:20.071Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
