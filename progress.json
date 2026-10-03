@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:45:17.323Z",
+  "generated_at": "2026-10-03T16:56:17.620Z",
   "items": {
     "math:39": {
       "kind": "math",
@@ -220,6 +220,19 @@
       "last_pushed_at": "2026-10-03T16:45:16.248Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:353": {
+      "kind": "problem",
+      "id": "353",
+      "title": "Reconstruction Error from PCA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/353",
+      "path": "problems/0353-reconstruction-error-from-pca",
+      "first_solved_at": "2026-10-03T16:56:16.741Z",
+      "last_pushed_at": "2026-10-03T16:56:16.741Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
