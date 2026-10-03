@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 13 problems · 0 labs · 7 math
+**21** solved · 14 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-10-03 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-02 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-10-03 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-02 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-02 | [solution](problems/0801-polynomial-regression-fit) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-03 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
