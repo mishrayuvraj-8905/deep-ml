@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 15 problems · 0 labs · 7 math
+**23** solved · 16 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-10-02 | [solution](problems/0801-polynomial-regression-fit) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-03 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-03 | [solution](problems/0353-reconstruction-error-from-pca) |
+| [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-10-03 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
 ## Math
 
