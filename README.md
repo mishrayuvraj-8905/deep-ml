@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 22 problems · 0 labs · 9 math
+**32** solved · 23 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-10-02 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-10-04 | [solution](problems/0045-linear-kernel-function) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-03 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
+| [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-06 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-10-03 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-10-02 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-10-02 | [solution](problems/0032-generate-sorted-polynomial-features) |
